@@ -1,0 +1,6 @@
+#gifs-rows img {
+  cursor: pointer;
+}
+#gifs-rows .gif-file {
+  display:none;
+}
